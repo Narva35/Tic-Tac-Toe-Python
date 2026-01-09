@@ -182,7 +182,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**Narva35**
+**Ekumby Travessa**
 - GitHub: [@Narva35](https://github.com/Narva35)
 
 ## 🤝 Contributing
